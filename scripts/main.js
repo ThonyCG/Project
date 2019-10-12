@@ -53,6 +53,7 @@ function estableceNombreUsuario(){
   miTitulo.textContent = 'MOzilla es fresco!!!' + miNombre;
 }
 
+
 if(!localStorage.getItem('nombre')){
   estableceNombreUsuario();
 }else{
