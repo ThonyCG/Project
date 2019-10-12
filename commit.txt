@@ -1,0 +1,83 @@
+commit 1e7e4ac03a6dbd9c1ae3bc20ee7c0e199fb8a52f
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Sat Oct 12 09:54:29 2019 -0500
+
+    2 commit webtest0
+
+commit 7a3ba8142de3d5591a444803e899871cf4226354
+Merge: cb8c7ce b07e3a4
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Fri Oct 11 19:40:42 2019 -0500
+
+    1 commit webtest0
+
+commit cb8c7cef3720d28b6b4f3c7a598e17279f9ea4dd
+Merge: 5a897b3 c86ed9d
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Fri Oct 11 19:35:39 2019 -0500
+
+    Primer commit Webtest0: 2019-10-11
+
+commit 5a897b370ba8418190beb7692370580b9efc351a
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Thu Oct 10 21:33:31 2019 -0500
+
+    Se agrega el proyecto webtest0 al repo.
+
+commit c86ed9d369447248c5e82f42067e0ee8c369be25
+Merge: 6a9b1ae af7592c
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Sat Sep 7 21:25:11 2019 -0500
+
+    Merge branch 'master' of https://github.com/ThonyCG/ThonyCG.github.io
+    nuevo commit
+
+commit 6a9b1aeaece039068b404107301396fd5846b135
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Sat Sep 7 21:23:11 2019 -0500
+
+    nuevo commit
+
+commit af7592c34347654988278fb8de862a3888d6c0cb
+Author: ThonyCG <54563073+ThonyCG@users.noreply.github.com>
+Date:   Sat Sep 7 21:15:46 2019 -0500
+
+    Update README.md
+
+commit a101d642e2ee6998b7ff0298b140d835a84b26c4
+Author: ThonyCG <54563073+ThonyCG@users.noreply.github.com>
+Date:   Sat Sep 7 21:15:22 2019 -0500
+
+    Set theme jekyll-theme-minimal
+
+commit eea6be9110483764c067d365fd4d8c0106380c33
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Sat Sep 7 20:28:37 2019 -0500
+
+    nuevo commit
+
+commit b02a2f7393983ea19e2a285074c69f977c14e38d
+Merge: 494da1f 846d021
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Sat Sep 7 20:00:13 2019 -0500
+
+    Merge branch 'master' of https://github.com/ThonyCG/ThonyCG.github.io
+    Agregando mi primer proyecto desde linea de comando
+
+commit 494da1fdd59b7db60dec17105956051504f47510
+Author: ThonyCG <anthony.cg.1274@gmail.com>
+Date:   Sat Sep 7 19:22:46 2019 -0500
+
+    agregando archivos a mi repositorio
+
+commit 846d021f05b59c3b1b415a042eeb5a2245a0abba
+Author: ThonyCG <54563073+ThonyCG@users.noreply.github.com>
+Date:   Sat Sep 7 18:28:05 2019 -0500
+
+    Initial commit
+
+commit b07e3a43d96f7151ea3b69e95a3d7c6b6fb356ea
+Author: ThonyCG <54563073+ThonyCG@users.noreply.github.com>
+Date:   Mon Aug 26 20:32:09 2019 -0500
+
+    Initial commit

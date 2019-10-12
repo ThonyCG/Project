@@ -50,15 +50,16 @@ var miTitulo = document.querySelector('h1');
 function estableceNombreUsuario(){
   var miNombre = prompt('por favor ingresa tu nombre');
   localStorage.setItem('nombre', miNombre);
-  miTitulo.textContent = 'MOzilla es fresco!!!' + miNombre;
+  miTitulo.textContent = 'Mozilla es fresco!!!  :' + miNombre;
 }
 
+//
 
 if(!localStorage.getItem('nombre')){
   estableceNombreUsuario();
 }else{
   var nombreALmacenado =localStorage.getItem('nombre');
-  miTitulo.textContent = 'MOzilla.. es fresco xd xd' + nombreALmacenado;
+  miTitulo.textContent = 'Mozilla.. es fresco xd xd... :' + nombreALmacenado;
 }
 
 miBoton.onclick = function () {
